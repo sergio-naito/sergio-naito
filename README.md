@@ -2,7 +2,7 @@ sou desenvolvedor front-end
 <br>
 atualmente estudando javascript e alguns frameworks como react 
 <br>
-contra-me no meu e-mail: arturfg49@gmail.com
+contra-me no meu e-mail: arturhuber78@gmail.com
 
 
 
