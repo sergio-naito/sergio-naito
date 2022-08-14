@@ -1,8 +1,4 @@
-sou desenvolvedor front-end 
-<br>
-atualmente estudando javascript e alguns frameworks como react 
-<br>
-contra-me no meu e-mail: arturhuber78@gmail.com
+Meu hobby favorito é programar,  ler livros e  principalmente conhecer métodos e linguagens novas no mundo da programação, busco alcançar meu melhor nos projetos como programador e atender a 100% das expectativas dos clientes, de modo que todo projeto é tratado de forma individualizada, em que tudo será feito a partir de indicações do próprio cliente. Ademais estou sempre estou buscando inovação no ramo da tecnologia, realizando novos cursos e me aperfeiçoando cada vez mais como Desenvolvedor Front-End. 
 
 
 
