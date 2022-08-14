@@ -1,4 +1,6 @@
-Meu hobby favorito é programar,  ler livros e  principalmente conhecer métodos e linguagens novas no mundo da programação, busco alcançar meu melhor nos projetos como programador e atender a 100% das expectativas dos clientes, de modo que todo projeto é tratado de forma individualizada, em que tudo será feito a partir de indicações do próprio cliente. Ademais estou sempre estou buscando inovação no ramo da tecnologia, realizando novos cursos e me aperfeiçoando cada vez mais como Desenvolvedor Front-End. 
+Atuo como desenvolvedor Front-end utilizando a ferramenta Visual Studio Code, em projetos de criação de sites, páginas de cadastro, telas de login, páginas de vendas(Landing Page) e páginas de produto para e-commerce. Estes projetos são desenvolvidos a partir do conhecimento prático e teórico em HTML, CSS e Responsive Web Design, em que todos os projetos estão 100% adaptadas ao Mobile, ou seja, todos são altamente responsivos conquistando assim a melhor experiência do cliente, o que chamamos de UX | UI Design, em que é meus trabalhos buscam obter a melhor experiência do usuário e uma interface simples, clara e objetiva. Peço que visualizem meu portfólio fixado no perfil e minhas certificações, e assim possamos fechar contratos e novos projeto para sua empresa e/ou pessoal. ;)
+
+
 
 
 
