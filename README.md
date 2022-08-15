@@ -1,4 +1,14 @@
-Atuo como desenvolvedor Front-end utilizando a ferramenta Visual Studio Code, em projetos de criação de sites, páginas de cadastro, telas de login, páginas de vendas(Landing Page) e páginas de produto para e-commerce. Estes projetos são desenvolvidos a partir do conhecimento prático e teórico em HTML, CSS e Responsive Web Design, em que todos os projetos estão 100% adaptadas ao Mobile, ou seja, todos são altamente responsivos conquistando assim a melhor experiência do cliente, o que chamamos de UX | UI Design, em que é meus trabalhos buscam obter a melhor experiência do usuário e uma interface simples, clara e objetiva. Peço que visualizem meu portfólio fixado no perfil e minhas certificações, e assim possamos fechar contratos e novos projeto para sua empresa e/ou pessoal. ;)
+Atuo como desenvolvedor Front-end utilizando a ferramenta Visual Studio Code, em projetos de criação de sites, páginas de cadastro, telas de login, páginas de vendas(Landing Page) e páginas de produto para e-commerce. Estes projetos são desenvolvidos a partir do conhecimento prático e teórico em HTML, CSS e Responsive Web Design, em que todos os projetos estão 100% adaptadas ao Mobile, ou seja, todos são altamente responsivos conquistando assim a melhor experiência do cliente, o que chamamos de UX | UI Design, em que é meus trabalhos buscam obter a melhor experiência do usuário e uma interface simples, clara e objetiva.
+
+
+O que estou atualmente estudando ?
+
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+
 
 
 
