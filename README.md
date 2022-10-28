@@ -1,4 +1,6 @@
-Atuo como desenvolvedor Front-end utilizando a ferramenta Visual Studio Code, em projetos de criação de sites, páginas de cadastro, telas de login, páginas de vendas(Landing Page) e páginas de produto para e-commerce. Estes projetos são desenvolvidos a partir do conhecimento prático e teórico em HTML, CSS e Responsive Web Design, em que todos os projetos estão 100% adaptadas ao Mobile, ou seja, todos são altamente responsivos conquistando assim a melhor experiência do cliente, o que chamamos de UX | UI Design, em que é meus trabalhos buscam obter a melhor experiência do usuário e uma interface simples, clara e objetiva.
+Olá, me chamo Artur huber, tenho 16 anos. 
+Adoro criar coisas, por este motivo a área de Front-End me encantou logo de cara. Desde então, venho me dedicando dia após dia a programação, buscando evoluir minhas habilidades como desenvolvedor e pessoal. sempre disposto a aprender coisas novas e buscar resoluções de problemas.
+Tenho experiência em: JavaScript, HTML5, CSS3, e Boostrap. Onde já fiz vários projetos utilizando essas tecnologias.
 
 
 O que estou atualmente estudando ?
