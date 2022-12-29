@@ -28,7 +28,7 @@ O que estou atualmente estudando ?
 
 
 
-![artur-debv GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-debv&layout=compact)](https://github.com/artur-debv/github-readme-stats)
+![artur-debv GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-debv&layout=compact)](https://github.com/artur-debv/github-readme-stats)
 
 
   ## tecnologia que eu uso no meu dia a dia
