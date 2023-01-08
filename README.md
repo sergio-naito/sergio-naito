@@ -1,6 +1,6 @@
 Olá, me chamo Artur huber, tenho 16 anos. 
 Adoro criar coisas, por este motivo a área de Front-End me encantou logo de cara. Desde então, venho me dedicando dia após dia a programação, buscando evoluir minhas habilidades como desenvolvedor e pessoal. sempre disposto a aprender coisas novas e buscar resoluções de problemas.
-Tenho experiência em: JavaScript, HTML5, CSS3, e Boostrap. Onde já fiz vários projetos utilizando essas tecnologias.
+Tenho experiência em: JavaScript, HTML5, CSS3, e Boostrap,Sass. Onde já fiz vários projetos utilizando essas tecnologias.
 
 
 O que estou atualmente estudando ?
