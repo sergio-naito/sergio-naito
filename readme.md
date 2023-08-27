@@ -4,7 +4,7 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debvrepo=artur-debv&theme=react)](https://github.com/artur-debv/artur-debv)
+
 
 
 <div>
