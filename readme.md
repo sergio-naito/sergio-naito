@@ -14,25 +14,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-debv&layout=compact&langs_count=7&theme=react" />
 
 
-let count = 0;
-
- 
-  function eatCommit() {
-    count++;
-  }
 
 
-  document.addEventListener("snake-eat", eatCommit);
 
-
-  function showCount() {
-
-    document.getElementById("count").innerHTML = count;
-  }
-
-
-  document.addEventListener("snake-eat", showCount);
-</script>
-
-<div id="count"></div>
 
