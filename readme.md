@@ -14,4 +14,25 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-debv&layout=compact&langs_count=7&theme=react" />
 
 
+let count = 0;
+
+  // Incrementa o contador toda vez que a cobra come um commit
+  function eatCommit() {
+    count++;
+  }
+
+  // Chama a função eatCommit quando a cobra come um commit
+  document.addEventListener("snake-eat", eatCommit);
+
+  // Exibe o número de commits no README
+  function showCount() {
+    // Exibe o número de commits no README
+    document.getElementById("count").innerHTML = count;
+  }
+
+  // Chama a função showCount toda vez que a cobra come um commit
+  document.addEventListener("snake-eat", showCount);
+</script>
+
+<div id="count"></div>
 
