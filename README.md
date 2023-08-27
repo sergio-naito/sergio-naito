@@ -28,6 +28,8 @@ O que estou atualmente estudando ?
 
 
 
+  ![snake eif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+
 ![artur-debv GitHub stats](https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artur-debv&layout=compact)](https://github.com/artur-debv/github-readme-stats)
 
 
@@ -41,7 +43,6 @@ O que estou atualmente estudando ?
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
  
-  ![snake eif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
   
  
 
