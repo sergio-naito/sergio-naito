@@ -8,7 +8,9 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-debv&layout=compact&langs_count=7&theme=react" />
 
 
+https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.gif
 
+![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.gif)
 
 
 
