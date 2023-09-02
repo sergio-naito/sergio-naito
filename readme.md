@@ -10,7 +10,8 @@
 
 
 
-![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+ 
 
-https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.gif
-
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
