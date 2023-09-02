@@ -14,4 +14,4 @@
  
 
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/artur-debv/artur-debv)
