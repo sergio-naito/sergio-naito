@@ -14,7 +14,7 @@
  
  🌱 Atualmente estou aprendendo **Redis, Tailwind, React Native Expo**
 
- 💬 Pergunte sobre **Node.js, React, Firebase, MongoDB... ou qualquer coisa [aqui](https://github.com/salesp07/salesp07/issues)**
+ 💬 Pergunte sobre **Node.js, React, Firebase, MongoDB... ou qualquer coisa [aqui](https://github.com/artur-debv/artur-debv/issues)**
 
  ⚡ Curiosidade **As capas da Night's Watch de Game of Thrones são feitas de tapetes Ikea**
  
@@ -44,13 +44,8 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
+ 
 
 <hr/>
 
