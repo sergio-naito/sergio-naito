@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em **Sistema de agendamento**
+ 🔭 Atualmente estou trabalhando em **Sistema de Agendamento**
  
  🌱 Atualmente estou aprendendo **react, Tailwind, typescript**
 
