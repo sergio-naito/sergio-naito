@@ -12,10 +12,10 @@
  
  🔭 Atualmente estou trabalhando em **um aplicativo de bate-papo**
  
- 🌱 Atualmente estou aprendendo **Redis, Tailwind, React Native Expo**
+ 🌱 Atualmente estou aprendendo **react, Tailwind, typescript**
 
 
- ⚡ Curiosidade **As capas da Night's Watch de Game of Thrones são feitas de tapetes Ikea**
+ 
  
  </div>
  
