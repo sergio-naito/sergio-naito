@@ -24,10 +24,10 @@
   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sergio-naito/sergio-naito/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/artur-debv/artur-debv)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=sergio-naito&repo=sergio-naito&theme=react)](https://github.com/sergio-naito/sergio-naito)
 
 
