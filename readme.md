@@ -34,7 +34,7 @@
  
 </div>
  
-<!--
+<!--12.10.23 20:36
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=sergio-naito&repo=sergio-naito&theme=react)](https://github.com/sergio-naito/sergio-naito)
 -->
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/sergio-naito/count.svg" /></p>
