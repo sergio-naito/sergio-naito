@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/sergio-naito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-naito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-naito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/-->
   <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-naito&layout=compact&langs_count=16&theme=dark" />
 
   <!-- img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613" 
