@@ -1,4 +1,5 @@
-<h1> Olá! Meu nome é Sergio Naito, tenho conhecimentos em Ciência de Dados (Data Scientist), Análise de Dados (Data Analyst), Python, Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), SQL, DB2, MySQL, ChatBot, ChatGPT, Bard, Analista de Sistemas Senior, Excel VBA. </h1>
+<h1> Olá! Meu nome é Sergio Naito.</h1> 
+<h2>Tenho conhecimentos em Ciência de Dados (Data Scientist), Análise de Dados (Data Analyst), Python, Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), SQL, DB2, MySQL, ChatBot, ChatGPT, Bard, Analista de Sistemas Senior, Excel VBA. </h2>
 
 <div>
   <a href="https://github.com/sergio-naito"></a>
