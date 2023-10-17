@@ -1,7 +1,8 @@
 <h1> Olá! Meu nome é Sergio Naito.</h1> 
 <h2>Tenho conhecimentos em Ciência de Dados (Data Scientist), Análise de Dados (Data Analyst), Python, Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), SQL, DB2, MySQL, ChatBot, ChatGPT, Bard, Analista de Sistemas Senior, Cobol, Excel VBA. </h2>
 <br>
-<h2> Meu primeiro projeto Predição de Vendas de Imóveis. </h2>
+<h2> Meu primeiro projeto: IA-Previsão de Vendas de Imóveis. </h2>
+<br>
 
 <div>
   <a href="https://github.com/sergio-naito"></a>
