@@ -2,8 +2,10 @@
 <h2>Tenho conhecimentos em Ciência de Dados (Data Scientist), Análise de Dados (Data Analyst), Python, Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), SQL, DB2, MySQL, ChatBot, ChatGPT, Bard, Analista de Sistemas Senior, Cobol, Excel VBA. </h2>
 <br>
 <h2> Meu primeiro projeto: <a href="https://github.com/sergio-naito/IA-Previsao-de-Vendas.git" >IA-Previsão de Vendas de Imóveis. </a></h2>
-<br>
 
+<h2> Segundo Portfólio (fork da RafaBallerini):  <a href="https://github.com/sergio-naito/GitTutorial" >GitTutorial. </a></h2>
+<br>
+<br>
 <div>
   <a href="https://github.com/sergio-naito"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-naito&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
