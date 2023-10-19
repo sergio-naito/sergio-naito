@@ -4,6 +4,8 @@
 <h2> Meu primeiro projeto: <a href="https://github.com/sergio-naito/IA-Previsao-de-Vendas.git" >IA-Previsão de Vendas de Imóveis. </a></h2>
 
 <h2> Segundo Portfólio (fork da RafaBallerini):  <a href="https://github.com/sergio-naito/GitTutorial" >GitTutorial. </a></h2>
+
+<h2> Térceiro Portfólio (Era dos dados):  <a href="https://github.com/sergio-naito/Era_dos_dados"> Era dos Dados. </a></h2>
 <br>
 <br>
 <div>
