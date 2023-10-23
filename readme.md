@@ -9,7 +9,7 @@
 
 <h2> Quarto Portfólio (FormandoDev):  Cobrinha, Estatísticas de Programas, Contador de quantidade de acessos da página inicial. </h2>
 
-<h2> Quinto Portfólio (Criação de Blog no GitHub Page - sergio-naito.github.io):  <a href="https://sergio-naito.github.io"> Blog sergio-naito.github.io. </a></h2>
+<h2> Quinto Portfólio (Criação de Blog no GitHub Page - sergio-naito.github.io):  <a href="https://sergio-naito.github.io"> Blog. </a></h2>
 
 <br>
 <br>
