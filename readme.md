@@ -15,6 +15,8 @@
 
 <h2> Sétimo Portfólio: Era do Cientista de Dados. (Em desenvolvimento)  </h2>
 
+<h2> Oitavo Portfólio: informações do LinkedIn </h2>
+
 
 <br>
 <br>
