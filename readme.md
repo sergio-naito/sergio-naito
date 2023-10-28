@@ -11,7 +11,7 @@
 
 <h2> Quinto Portfólio (Criação de Blog no GitHub Page - sergio-naito.github.io):  <a href="https://sergio-naito.github.io"> Blog. </a></h2>
 
-<h2> Sexto Portfólio: Laboratório Programa CDPRO-Cientista de Dados Profissional. (Em desenvolvimento)  </h2>
+<h2> Sexto Portfólio: Ciência dos Dados - Eduaardo Rocha - Instituição de Ensino. (Em desenvolvimento)  </h2>
 
 <h2> Sétimo Portfólio: Era do Cientista de Dados. (Em desenvolvimento)  </h2>
 
