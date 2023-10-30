@@ -17,8 +17,8 @@
 
 ## Vamos Conectar
 - 💬 [LinkedIn](https://www.linkedin.com/in/sergio-naito-156ab893/)
-- 📧 [E-mail](mailto:sernaito@gmail.com)
-
+  
+  
 
 <br>
 <br>
