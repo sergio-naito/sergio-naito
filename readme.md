@@ -1,21 +1,23 @@
-<h1> Olá! Meu nome é Sergio Naito.</h1> 
-<h2>Tenho conhecimentos em Ciência de Dados (Data Scientist), Análise de Dados (Data Analyst), Python, Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), SQL, DB2, MySQL, ChatBot, ChatGPT, Bard, Analista de Sistemas Senior, Cobol, Excel VBA. </h2>
-<br>
-<h2> Meu primeiro projeto: <a href="https://github.com/sergio-naito/IA-Previsao-de-Vendas.git" >IA-Previsão de Vendas de Imóveis. </a></h2>
+# Olá! Eu sou o Sergio Naito
 
-<h2> Segundo Portfólio (fork da RafaBallerini):  <a href="https://github.com/sergio-naito/GitTutorial" >GitTutorial. </a></h2>
+## Sobre Mim
+- 👨‍💻 Cientista de Dados com experiência em Data Science e Data Analysis.
+- 🚀 Conhecimento em Python, Machine Learning, Deep Learning, SQL, DB2, MySQL, ChatBots, Excel VBA, e mais.
+- 📊 Transformando dados em insights e soluções.
 
-<h2> Terceiro Portfólio (Era dos dados - fork do Roberto Ricci):  <a href="https://github.com/sergio-naito/Era_dos_dados"> Era dos Dados. </a></h2>
+## Projetos Destacados
+1. [IA-Previsão de Vendas de Imóveis](https://github.com/sergio-naito/IA-Previsao-de-Vendas) - Meu primeiro projeto em IA.
+2. [GitTutorial (fork da RafaBallerini)](https://github.com/sergio-naito/GitTutorial) - Aprendendo Git com a Rafa.
+3. [Era dos Dados (fork do Roberto Ricci)](https://github.com/sergio-naito/Era_dos_dados) - Explorando a era dos dados.
+4. [Cobrinha, Estatísticas de Programas, Contador de acessos](https://github.com/sergio-naito) - Diversos projetos e experimentos.
+5. [Blog (sergio-naito.github.io)](https://sergio-naito.github.io) - Meu blog pessoal.
+6. [Ciência dos Dados - Eduardo Rocha](https://github.com/sergio-naito) - Em desenvolvimento.
+7. [Era do Cientista de Dados](https://github.com/sergio-naito) - Em desenvolvimento.
+8. [Guias do LinkedIn](https://github.com/sergio-naito/linkedin) - Em desenvolvimento.
 
-<h2> Quarto Portfólio (FormandoDev):  Cobrinha, Estatísticas de Programas, Contador de quantidade de acessos da página inicial. </h2>
-
-<h2> Quinto Portfólio (Criação de Blog no GitHub Page - sergio-naito.github.io):  <a href="https://sergio-naito.github.io"> Blog. </a></h2>
-
-<h2> Sexto Portfólio: Ciência dos Dados - Eduaardo Rocha - Instituição de Ensino. (Em desenvolvimento)  </h2>
-
-<h2> Sétimo Portfólio: Era do Cientista de Dados. (Em desenvolvimento)  </h2>
-
-<h2> Oitavo Portfólio: informações do LinkedIn. <a href="https://github.com/sergio-naito/linkedin" > Guias do Linkedin </a> (Em desenvolvimento) </h2>
+## Vamos Conectar
+- 💬 [LinkedIn](https://www.linkedin.com/in/sergio-naito-156ab893/)
+- 📧 [E-mail](mailto:sernaito@gmail.com)
 
 
 <br>
