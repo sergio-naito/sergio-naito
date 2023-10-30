@@ -14,6 +14,8 @@
 6. [Ciência dos Dados - Eduardo Rocha](https://github.com/sergio-naito) - Em desenvolvimento.
 7. [Era do Cientista de Dados](https://github.com/sergio-naito) - Em desenvolvimento.
 8. [Guias do LinkedIn](https://github.com/sergio-naito/linkedin) - Em desenvolvimento.
+9. [Titanic-Primeiro Portfólio de Competição do Kaggle](https://github.com/sergio-naito/linkedin) - Em desenvolvimento.
+
 
 ## Vamos Conectar
 - 💬 [LinkedIn](https://www.linkedin.com/in/sergio-naito-156ab893/)
