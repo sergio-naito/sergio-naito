@@ -11,7 +11,7 @@
 3. [Era dos Dados (fork do Roberto Ricci)](https://github.com/sergio-naito/Era_dos_dados) - Explorando a era dos dados.
 4. [Cobrinha, Estatísticas de Programas, Contador de acessos](https://github.com/sergio-naito) - Diversos projetos e experimentos.
 5. [Blog (sergio-naito.github.io)](https://sergio-naito.github.io) - Meu blog pessoal.
-6. [Ciência dos Dados - Eduardo Rocha](https://github.com/sergio-naito/Programa-CDPRO/tree/main) - Em desenvolvimento.
+6. [Programa CDPRO-Cientista de Dados Profissional do Professor Eduardo Rocha](https://github.com/sergio-naito/Programa-CDPRO/tree/main) - Em desenvolvimento.
 7. [Era do Cientista de Dados](https://github.com/sergio-naito) - Em desenvolvimento.
 8. [Guias do LinkedIn](https://github.com/sergio-naito/linkedin) - Em desenvolvimento.
 9. [Titanic-Primeiro Portfólio de Competição do Kaggle](https://github.com/sergio-naito/Titanic) - Em desenvolvimento.
